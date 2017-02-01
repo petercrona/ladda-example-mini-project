@@ -1,0 +1,21 @@
+{
+  "name": "ladda-example-mini-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Crona <petercrona89@gmail.com> (http://www.icecoldcode.com)",
+  "license": "ISC",
+  "dependencies": {
+    "ladda-cache": "0.0.12"
+  },
+  "devDependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-stage-1": "^6.22.0",
+    "webpack": "^2.2.1"
+  }
+}
